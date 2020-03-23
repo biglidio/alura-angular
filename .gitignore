@@ -104,3 +104,4 @@ dist
 .tern-port
 
 alurapic/node_modules/
+api/node_modules/
